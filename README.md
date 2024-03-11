@@ -430,6 +430,7 @@ For Unreal Engine-compatible client libraries, see [C++ agents](#C++).
 - [Internet Computer Ecosystem Showcase](https://internetcomputer.org/ecosystem) - Curated project registry.
 - [Kinic](https://74iy7-xqaaa-aaaaf-qagra-cai.ic0.app/) - Front-end search engine.
 - [ICP Explorer](https://icp.footprint.network/) - Explorer.
+- [ICAP](https://lixne-xqaaa-aaaap-ab2va-cai.icp0.io/) - Front-end SPARQL editor.
 
 ## Multi-chain Infrastructure and Applications
 
